@@ -17,7 +17,7 @@ DAX (Data Analysis Expressions) for KPIs & calculations
 Excel as the data source
 
 ## 📷 Dashboard Preview
-![Dashboard Overview](./screenshots/dashboard_overview.png)
+![Dashboard Overview](dashboard_preview.png)
 
 ## 🚀 How to Use
 1. Clone/download this repository
